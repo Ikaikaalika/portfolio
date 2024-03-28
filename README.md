@@ -17,6 +17,7 @@
 •	Created multiple GAN’s to synthesize multiple types of patient data to overcome data deficit common in the medical industry. 
 •	Developed MLOps/AI pipeline to continuously improve models with additional data.
 •	Deployed ML classification model to Linux Ubuntu based nVidia Jetson edge-computing system for rapid diagnosis (command & UI based system)
+
 **Data Scientist/Artificial Intelligence -Intern
 **Micron Technology - Boise, ID May 2022 to August 2022
 
@@ -25,6 +26,7 @@
 •	Assisted in creation of machine learning/artificial intelligence (deep learning) pipeline and model to predict metrology stats to reduce manufacturing decision time by 50% or more reducing development times greatly.
 •	Created data pipelines for the aforementioned projects using SQL (Oracle & MS systems).
 •	Displayed and communicated data reports with Tableau dashboards.
+
 **Process Engineer - Intern 
 **Marathon Petroleum - Salt Lake City, UT August 2021 to November 2021
 
