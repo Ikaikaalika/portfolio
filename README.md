@@ -2,9 +2,10 @@
 
 #### Technical Skills: Python, SQL, AWS, 
 
-## Education 			        		
-- B.S., Chemical Engineering | The University of Utah (_May 2023_)
+## Education
 
+- B.S., Chemical Engineering | The University of Utah (_May 2023_)
+  
 ## Work Experience
 
 **Data Scientist/Artificial Intelligence Engineer**
