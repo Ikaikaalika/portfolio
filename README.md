@@ -7,7 +7,8 @@
 
 ## Work Experience
 
-**Data Scientist/Artificial Intelligence Engineer** 
+**Data Scientist/Artificial Intelligence Engineer**
+
 **University of Utah - Salt Lake City, UT August 2019 to Present**
 
 -	Artificial Intelligence team lead for medical diagnoses with UCSF. (Data for this project is similar to image data)
@@ -19,6 +20,7 @@
 -	Deployed ML classification model to Linux Ubuntu based nVidia Jetson edge-computing system for rapid diagnosis (command & UI based system)
 
 **Data Scientist/Artificial Intelligence -Intern**
+
 **Micron Technology - Boise, ID May 2022 to August 2022**
 
 -	Developed custom data visualization software in python with Django and TKinter to quickly trouble shoot manufacturing errors.
@@ -28,6 +30,7 @@
 -	Displayed and communicated data reports with Tableau dashboards.
 
 **Process Engineer - Intern**
+
 **Marathon Petroleum - Salt Lake City, UT August 2021 to November 2021**
 
 -	Facilitated and developed test run on FCU Naphtha Splitter to decrease olefin obstruction in Gasoline Hydrotreater resulting in the increase of revenue of $100k+ in 6 months.
