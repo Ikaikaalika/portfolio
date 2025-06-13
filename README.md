@@ -4,7 +4,7 @@
 
 ## Education
 
-- B.S., Chemical Engineering | The University of Utah (_May 2023_)
+- B.S., Chemical Engineering | The University of Utah
   
 ## Work Experience
 
